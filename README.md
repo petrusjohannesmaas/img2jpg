@@ -4,7 +4,7 @@ A fast, lightweight Go CLI utility for converting images to JPG format. Designed
 
 ## Prerequisites
 - Go 1.25 or higher
-- Linux x86_64 (Xubuntu/Ubuntu tested)
+- Linux x86_64 (Ubuntu tested)
 
 ## Installation
 
